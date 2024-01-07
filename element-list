@@ -6,6 +6,7 @@ org.sgrewritten.stargate.api.database
 org.sgrewritten.stargate.api.event
 org.sgrewritten.stargate.api.event.gate
 org.sgrewritten.stargate.api.event.portal
+org.sgrewritten.stargate.api.event.portal.message
 org.sgrewritten.stargate.api.formatting
 org.sgrewritten.stargate.api.gate
 org.sgrewritten.stargate.api.gate.structure
@@ -16,6 +17,7 @@ org.sgrewritten.stargate.api.network.portal.format
 org.sgrewritten.stargate.api.network.proxy
 org.sgrewritten.stargate.api.permission
 org.sgrewritten.stargate.api.vectorlogic
+org.sgrewritten.stargate.colors
 org.sgrewritten.stargate.command
 org.sgrewritten.stargate.config
 org.sgrewritten.stargate.container
@@ -39,6 +41,5 @@ org.sgrewritten.stargate.network.proxy
 org.sgrewritten.stargate.property
 org.sgrewritten.stargate.thread
 org.sgrewritten.stargate.util
-org.sgrewritten.stargate.util.colors
 org.sgrewritten.stargate.util.database
 org.sgrewritten.stargate.util.portal
